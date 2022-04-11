@@ -1,0 +1,15 @@
+
+.card {
+    background: #9f9f9f54;
+    color: white;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    margin: 1em;
+  }
+input{
+    border-radius: 10px;
+    border-color: none;
+    border-style: none;
+    width: 100vh;
+}
